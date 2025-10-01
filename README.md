@@ -25,7 +25,4 @@ git clone TU_REPO_URL
 cd galeria-multimedia
 npm install
 npm start
-```
 
-## 🌐 Deploy
-El proyecto está desplegado en Vercel: [LINK_PUBLICO]
